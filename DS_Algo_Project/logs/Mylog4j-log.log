@@ -1,0 +1,656 @@
+[INFO ] 2022-12-27 23:20:43.058 [main] DS-Algo-Url opend
+[INFO ] 2022-12-27 23:20:44.551 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-27 23:20:49.604 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:20:49.714 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:20:49.829 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:20:50.164 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:20:50.260 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:20:50.349 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:20:50.730 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:20:50.856 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:20:50.943 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:20:51.270 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:20:51.379 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:20:51.475 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:20:51.761 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:20:51.866 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:20:51.971 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:20:52.284 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:20:52.401 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:20:52.521 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:20:54.117 [main] DS-Algo-user name provided
+[INFO ] 2022-12-27 23:20:54.224 [main] DS-Algo-password provided
+[INFO ] 2022-12-27 23:20:55.445 [main] DS-Algo-user name provided
+[INFO ] 2022-12-27 23:20:55.706 [main] DS-Algo-password provided
+[INFO ] 2022-12-27 23:20:57.022 [main] DS-Algo-user name provided
+[INFO ] 2022-12-27 23:20:57.241 [main] DS-Algo-password provided
+[INFO ] 2022-12-27 23:21:00.594 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-27 23:21:01.355 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-27 23:21:02.100 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:21:02.254 [main] DS-Algo-Entered password
+[INFO ] 2022-12-27 23:21:04.583 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-27 23:21:05.967 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-27 23:21:07.717 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-27 23:48:32.256 [main] DS-Algo-Url opend
+[INFO ] 2022-12-27 23:48:33.564 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-27 23:48:37.142 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:48:37.263 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:48:37.415 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:48:37.720 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:48:37.804 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:48:37.892 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:48:38.227 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:48:38.336 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:48:38.419 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:48:38.781 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:48:38.921 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:48:39.039 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:48:39.337 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:48:39.435 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:48:39.532 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:48:39.850 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:48:40.017 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:48:40.144 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:48:41.970 [main] DS-Algo-user name provided
+[INFO ] 2022-12-27 23:48:42.078 [main] DS-Algo-password provided
+[INFO ] 2022-12-27 23:48:42.504 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-27 23:48:43.013 [main] DS-Algo-user name provided
+[INFO ] 2022-12-27 23:48:43.098 [main] DS-Algo-password provided
+[INFO ] 2022-12-27 23:48:43.504 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-27 23:48:44.055 [main] DS-Algo-user name provided
+[INFO ] 2022-12-27 23:48:44.247 [main] DS-Algo-password provided
+[INFO ] 2022-12-27 23:48:45.021 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-27 23:48:47.227 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-27 23:48:48.096 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-27 23:48:48.548 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:48:48.702 [main] DS-Algo-Entered password
+[INFO ] 2022-12-27 23:48:52.945 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-27 23:48:54.627 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-27 23:48:56.469 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-27 23:57:24.358 [main] DS-Algo-Url opend
+[INFO ] 2022-12-27 23:57:25.444 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-27 23:57:29.468 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:57:29.615 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:57:29.717 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:57:30.199 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:57:30.294 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:57:30.381 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:57:30.670 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:57:30.778 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:57:30.861 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:57:31.226 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:57:31.329 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:57:31.430 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:57:31.725 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:57:31.826 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:57:31.925 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:57:32.286 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:57:32.398 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:57:32.524 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:57:34.048 [main] DS-Algo-user name provided
+[INFO ] 2022-12-27 23:57:34.146 [main] DS-Algo-password provided
+[INFO ] 2022-12-27 23:57:34.573 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-27 23:57:35.231 [main] DS-Algo-user name provided
+[INFO ] 2022-12-27 23:57:35.418 [main] DS-Algo-password provided
+[INFO ] 2022-12-27 23:57:36.045 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-27 23:57:37.295 [main] DS-Algo-user name provided
+[INFO ] 2022-12-27 23:57:37.669 [main] DS-Algo-password provided
+[INFO ] 2022-12-27 23:57:38.690 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-27 23:57:41.070 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-27 23:57:41.831 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-27 23:57:42.223 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:57:42.382 [main] DS-Algo-Entered password
+[INFO ] 2022-12-27 23:57:44.253 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-27 23:57:45.736 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-27 23:57:47.649 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-27 23:59:48.362 [main] DS-Algo-Url opend
+[INFO ] 2022-12-27 23:59:49.635 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-27 23:59:53.899 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:59:53.990 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:59:54.083 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:59:54.382 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:59:54.484 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:59:54.568 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:59:54.938 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:59:55.052 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:59:55.136 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:59:55.457 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:59:55.563 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:59:55.661 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:59:55.955 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:59:56.051 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:59:56.135 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:59:56.467 [main] DS-Algo-Entered username
+[INFO ] 2022-12-27 23:59:56.577 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-27 23:59:56.687 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-27 23:59:58.136 [main] DS-Algo-user name provided
+[INFO ] 2022-12-27 23:59:58.247 [main] DS-Algo-password provided
+[INFO ] 2022-12-27 23:59:58.607 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-27 23:59:59.110 [main] DS-Algo-user name provided
+[INFO ] 2022-12-27 23:59:59.193 [main] DS-Algo-password provided
+[INFO ] 2022-12-27 23:59:59.784 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-28 00:00:01.811 [main] DS-Algo-user name provided
+[INFO ] 2022-12-28 00:00:02.194 [main] DS-Algo-password provided
+[INFO ] 2022-12-28 00:00:03.080 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-28 00:00:05.220 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-28 00:00:05.957 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-28 00:00:06.401 [main] DS-Algo-Entered username
+[INFO ] 2022-12-28 00:00:06.548 [main] DS-Algo-Entered password
+[INFO ] 2022-12-28 00:00:08.416 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-28 00:00:09.735 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-28 00:00:11.516 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 01:23:39.324 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 01:23:41.529 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 01:23:48.841 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 01:23:49.109 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 01:23:49.265 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 01:23:49.748 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 01:23:49.904 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 01:23:50.098 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 01:23:50.674 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 01:23:50.862 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 01:23:51.000 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 01:23:51.480 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 01:23:51.655 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 01:23:51.824 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 01:23:52.278 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 01:23:52.425 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 01:23:52.571 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 01:23:52.983 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 01:23:53.148 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 01:23:53.309 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 01:23:55.272 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 01:23:55.419 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 01:23:55.882 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 01:23:56.555 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 01:23:56.750 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 01:23:57.161 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 01:23:57.830 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 01:23:58.021 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 01:23:59.392 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 10:56:27.543 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 10:56:28.730 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 10:56:32.497 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:56:32.739 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 10:56:32.861 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 10:56:33.562 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:56:33.697 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 10:56:33.843 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 10:56:34.418 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:56:34.664 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 10:56:34.914 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 10:56:35.497 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:56:35.843 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 10:56:36.023 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 10:56:36.353 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:56:36.556 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 10:56:36.684 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 10:56:37.063 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:56:37.225 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 10:56:37.365 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 10:56:38.847 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 10:56:38.943 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 10:56:39.358 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 10:56:39.901 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 10:56:40.010 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 10:56:40.360 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 10:56:40.865 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 10:56:41.026 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 10:56:41.693 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 10:56:46.913 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 10:56:48.631 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 10:56:49.258 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:56:49.443 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 10:56:52.193 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 10:56:53.828 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 10:56:55.945 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 10:59:21.977 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 10:59:23.160 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 10:59:26.447 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:59:26.569 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 10:59:26.714 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 10:59:27.403 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:59:27.495 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 10:59:27.581 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 10:59:27.952 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:59:28.065 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 10:59:28.191 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 10:59:28.527 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:59:28.635 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 10:59:28.759 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 10:59:29.128 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:59:29.281 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 10:59:29.415 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 10:59:29.858 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:59:30.010 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 10:59:30.173 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 10:59:32.310 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 10:59:32.537 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 10:59:33.014 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 10:59:33.720 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 10:59:33.840 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 10:59:34.197 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 10:59:34.961 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 10:59:35.197 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 10:59:35.942 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 10:59:44.695 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 10:59:46.711 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 10:59:49.498 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 10:59:50.310 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 10:59:56.828 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 10:59:58.394 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 11:00:00.489 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 11:02:38.083 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 11:02:40.405 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 11:02:44.247 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:02:44.389 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:02:44.496 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:02:44.858 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:02:44.955 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:02:45.042 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:02:45.378 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:02:45.581 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:02:45.773 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:02:46.434 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:02:46.655 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:02:46.929 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:02:47.609 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:02:47.795 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:02:48.148 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:02:48.846 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:02:49.280 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:02:49.629 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:02:52.861 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 11:02:53.191 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 11:02:54.213 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 11:02:55.782 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 11:02:56.195 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 11:02:56.966 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 11:02:57.848 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 11:02:58.115 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 11:02:59.564 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 11:03:02.490 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 11:03:03.314 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 11:03:03.808 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:03:03.968 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 11:03:07.629 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 11:03:10.615 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 11:03:12.780 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 11:16:46.865 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 11:16:48.013 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 11:16:53.814 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:16:54.264 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:16:54.611 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:16:55.311 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:16:55.432 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:16:55.555 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:16:56.112 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:16:56.231 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:16:56.407 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:16:56.807 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:16:57.020 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:16:57.245 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:16:57.695 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:16:57.807 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:16:57.922 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:16:58.395 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:16:58.545 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:16:58.693 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:17:00.679 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 11:17:00.898 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 11:17:01.628 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 11:17:02.495 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 11:17:02.672 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 11:17:03.398 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 11:17:04.581 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 11:17:05.013 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 11:17:06.447 [main] DS-Algo-Signin - Failed
+[INFO ] 2022-12-30 11:17:12.097 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 11:17:14.748 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 11:17:15.607 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:17:15.779 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 11:17:18.332 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 11:17:20.174 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 11:17:25.280 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 11:20:28.735 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 11:20:29.949 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 11:20:33.629 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:20:33.738 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:20:33.898 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:20:34.276 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 11:20:34.428 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 11:20:34.556 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 11:20:35.095 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:49:15.117 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 13:49:16.146 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 13:50:33.191 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 13:50:34.416 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 13:50:58.569 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:50:58.695 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:50:58.828 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:50:59.218 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:50:59.324 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:50:59.443 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:50:59.750 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:50:59.856 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:50:59.939 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:51:00.313 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:51:00.431 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:51:00.539 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:51:00.849 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:51:00.936 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:51:01.019 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:51:01.321 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:51:01.418 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:51:01.517 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:51:02.951 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 13:51:03.044 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 13:51:03.819 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 13:51:03.904 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 13:51:04.729 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 13:51:04.881 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 13:51:08.352 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 13:51:09.206 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 13:51:09.714 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:51:09.881 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 13:51:12.050 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 13:51:13.611 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 13:51:15.565 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 13:52:23.691 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 13:52:24.747 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 13:52:47.512 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:52:47.613 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:52:47.712 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:52:48.050 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:52:48.137 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:52:48.214 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:52:48.545 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:52:48.635 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:52:48.713 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:52:49.012 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:52:49.131 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:52:49.223 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:52:49.572 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:52:49.660 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:52:49.749 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:52:50.112 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:52:50.215 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:52:50.319 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:52:52.040 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 13:52:52.214 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 13:52:52.926 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 13:52:53.017 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 13:52:53.750 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 13:52:53.866 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 13:52:56.649 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 13:52:57.483 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 13:52:57.948 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:52:58.109 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 13:53:00.397 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 13:53:02.064 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 13:53:04.401 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 13:56:47.868 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 13:56:48.984 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 13:57:12.057 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:57:12.138 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:57:12.224 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:57:12.545 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:57:12.644 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:57:12.720 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:57:13.038 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:57:13.131 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:57:13.210 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:57:13.525 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:57:13.639 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:57:13.734 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:57:14.037 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:57:14.127 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:57:14.211 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:57:14.507 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:57:14.608 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:57:14.727 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:57:16.374 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 13:57:16.465 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 13:57:17.255 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 13:57:17.335 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 13:57:18.213 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 13:57:18.320 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 13:57:21.979 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 13:57:23.369 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 13:57:23.815 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:57:23.962 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 13:57:26.614 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 13:59:31.877 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 13:59:32.981 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 13:59:56.286 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:59:56.395 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:59:56.511 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:59:56.830 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:59:56.913 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:59:56.990 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:59:57.308 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:59:57.398 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:59:57.472 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:59:57.808 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:59:57.934 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:59:58.037 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:59:58.352 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:59:58.445 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:59:58.540 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 13:59:58.885 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 13:59:59.016 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 13:59:59.123 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 14:00:00.649 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 14:00:00.733 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 14:00:01.489 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 14:00:01.597 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 14:00:02.317 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 14:00:02.423 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 14:00:05.103 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 14:00:05.968 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 14:00:06.480 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:00:06.633 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 14:00:08.767 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 14:00:10.946 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 14:00:13.079 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 14:00:41.672 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 14:00:42.684 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 14:01:05.726 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:01:05.843 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 14:01:05.951 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 14:01:06.308 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:01:06.420 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 14:01:06.529 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 14:01:06.885 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:01:07.009 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 14:01:07.115 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 14:01:07.545 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:01:07.652 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 14:01:07.753 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 14:01:08.079 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:01:08.169 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 14:01:08.258 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 14:01:08.601 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:01:08.718 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 14:01:08.836 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 14:01:10.527 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 14:01:10.661 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 14:01:11.534 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 14:01:11.629 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 14:01:12.585 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 14:01:12.707 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 14:01:16.197 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 14:01:17.003 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 14:01:17.513 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:01:17.716 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 14:01:20.015 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 14:01:21.428 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 14:01:23.320 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 14:12:44.880 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 14:12:46.116 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 14:13:09.123 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:13:09.243 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 14:13:09.369 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 14:13:09.684 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:13:09.769 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 14:13:09.850 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 14:13:10.181 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:13:10.269 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 14:13:10.350 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 14:13:10.732 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:13:10.836 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 14:13:10.932 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 14:13:11.220 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:13:11.308 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 14:13:11.391 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 14:13:11.712 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:13:11.819 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 14:13:11.919 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 14:13:13.319 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 14:13:13.404 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 14:13:14.196 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 14:13:14.289 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 14:13:15.012 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 14:13:15.110 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 14:13:17.848 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 14:13:18.633 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 14:13:19.019 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 14:13:19.262 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 14:13:21.547 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 14:13:23.098 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 14:13:24.788 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 15:47:13.987 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 15:47:15.310 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 15:47:18.756 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 15:47:18.948 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 15:47:19.088 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 15:47:19.539 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 15:47:19.671 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 15:47:19.799 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 15:47:20.219 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 15:47:20.327 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 15:47:20.495 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 15:47:20.896 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 15:47:21.020 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 15:47:21.125 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 15:47:21.497 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 15:47:21.595 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 15:47:21.689 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 15:47:22.095 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 15:47:22.253 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 15:47:22.370 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 15:47:24.644 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 15:47:24.773 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 15:47:25.830 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 15:47:25.948 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 15:47:26.924 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 15:47:27.087 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 15:47:30.789 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 15:47:31.727 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 15:47:32.325 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 15:47:32.959 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 15:47:36.688 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 15:47:38.228 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 15:47:40.127 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 16:05:32.081 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 16:05:33.100 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 16:05:36.606 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:05:36.729 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 16:05:36.843 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 16:05:37.260 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:05:37.358 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 16:05:37.528 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 16:05:37.903 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:05:38.013 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 16:05:38.107 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 16:05:38.586 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:05:38.761 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 16:05:38.918 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 16:05:39.332 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:05:39.454 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 16:05:39.568 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 16:05:39.953 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:05:40.106 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 16:05:40.269 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 16:05:42.101 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 16:05:42.203 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 16:05:42.872 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 16:05:42.967 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 16:05:43.797 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 16:05:43.927 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 16:05:46.593 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 16:05:47.446 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 16:05:47.863 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:05:48.039 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 16:05:49.923 [main] DS-Algo-VerifyLogin-Failed
+[INFO ] 2022-12-30 16:05:52.607 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 16:05:54.293 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 16:05:56.223 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 16:07:34.863 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 16:07:36.024 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 16:07:39.102 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:07:39.212 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 16:07:39.341 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 16:07:39.752 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:07:39.859 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 16:07:39.954 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 16:07:40.302 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:07:40.520 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 16:07:40.615 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 16:07:40.987 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:07:41.099 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 16:07:41.212 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 16:07:41.552 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:07:41.670 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 16:07:41.794 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 16:07:42.119 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:07:42.246 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 16:07:42.374 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 16:07:43.998 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 16:07:44.107 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 16:07:45.174 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 16:07:45.344 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 16:07:46.163 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 16:07:46.334 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 16:07:49.523 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 16:07:50.445 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 16:07:50.924 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 16:07:51.074 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 16:07:52.814 [main] DS-Algo-VerifyLogin-Failed
+[INFO ] 2022-12-30 16:07:55.595 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 16:07:57.087 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 16:07:58.881 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 18:54:31.654 [main] DS-Algo-Url opend
+[INFO ] 2022-12-30 18:54:33.535 [main] DS-Algo-clicked on get started btn
+[INFO ] 2022-12-30 18:54:40.961 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 18:54:41.290 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 18:54:41.614 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 18:54:42.077 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 18:54:42.187 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 18:54:42.279 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 18:54:42.671 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 18:54:42.809 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 18:54:42.921 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 18:54:43.781 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 18:54:44.545 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 18:54:45.099 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 18:54:46.054 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 18:54:46.742 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 18:54:47.213 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 18:54:49.076 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 18:54:49.484 [main] DS-Algo-Entered password 
+[INFO ] 2022-12-30 18:54:49.926 [main] DS-Algo-Entered confirm password
+[INFO ] 2022-12-30 18:54:52.926 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 18:54:53.058 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 18:54:53.976 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 18:54:54.110 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 18:54:55.005 [main] DS-Algo-user name provided
+[INFO ] 2022-12-30 18:54:55.175 [main] DS-Algo-password provided
+[INFO ] 2022-12-30 18:54:58.909 [main] DS-Algo-Message Sent 
+[INFO ] 2022-12-30 18:55:00.745 [main] DS-Algo-SignOut properly 
+[INFO ] 2022-12-30 18:55:02.338 [main] DS-Algo-Entered username
+[INFO ] 2022-12-30 18:55:02.527 [main] DS-Algo-Entered password
+[INFO ] 2022-12-30 18:55:03.855 [main] DS-Algo-VerifyLogin-Failed
+[INFO ] 2022-12-30 18:55:06.158 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 18:55:09.694 [main] DS-Algo-Message sent succesfully
+[INFO ] 2022-12-30 18:55:13.576 [main] DS-Algo-Message sent succesfully

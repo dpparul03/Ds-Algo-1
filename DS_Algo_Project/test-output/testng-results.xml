@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="18" total="75" passed="56" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-30T18:54:22 EST" name="Suite" finished-at="2022-12-30T18:56:41 EST" duration-ms="139041">
+    <groups>
+    </groups>
+    <test started-at="2022-12-30T18:54:22 EST" name="Test" finished-at="2022-12-30T18:56:41 EST" duration-ms="139041">
+      <class name="testCases.QueueTest">
+        <test-method signature="QueueInPython()[pri:1, instance:testCases.QueueTest@69c81773]" started-at="2022-12-30T18:55:55 EST" name="QueueInPython" finished-at="2022-12-30T18:55:57 EST" duration-ms="2524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QueueInPython -->
+        <test-method signature="QueueCollection()[pri:2, instance:testCases.QueueTest@69c81773]" started-at="2022-12-30T18:55:57 EST" name="QueueCollection" finished-at="2022-12-30T18:56:00 EST" duration-ms="3069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QueueCollection -->
+        <test-method signature="QueueImplementation()[pri:3, instance:testCases.QueueTest@69c81773]" started-at="2022-12-30T18:56:00 EST" name="QueueImplementation" finished-at="2022-12-30T18:56:03 EST" duration-ms="2882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QueueImplementation -->
+        <test-method signature="QueueOperations()[pri:3, instance:testCases.QueueTest@69c81773]" started-at="2022-12-30T18:56:03 EST" name="QueueOperations" finished-at="2022-12-30T18:56:05 EST" duration-ms="1328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QueueOperations -->
+        <test-method signature="QueuePracticeQuestions()[pri:3, instance:testCases.QueueTest@69c81773]" started-at="2022-12-30T18:56:05 EST" name="QueuePracticeQuestions" finished-at="2022-12-30T18:56:05 EST" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QueuePracticeQuestions -->
+      </class> <!-- testCases.QueueTest -->
+      <class name="testCases.SigninTest">
+        <test-method signature="SigninDDT(java.lang.String,java.lang.String)[pri:0, instance:testCases.SigninTest@1c742ed4]" started-at="2022-12-30T18:54:52 EST" name="SigninDDT" data-provider="signinData" finished-at="2022-12-30T18:54:53 EST" duration-ms="1119" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abghbgh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ffgg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SigninDDT -->
+        <test-method signature="SigninDDT(java.lang.String,java.lang.String)[pri:0, instance:testCases.SigninTest@1c742ed4]" started-at="2022-12-30T18:54:53 EST" name="SigninDDT" data-provider="signinData" finished-at="2022-12-30T18:54:54 EST" duration-ms="999" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[svhjj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hjjj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SigninDDT -->
+        <test-method signature="SigninDDT(java.lang.String,java.lang.String)[pri:0, instance:testCases.SigninTest@1c742ed4]" started-at="2022-12-30T18:54:54 EST" name="SigninDDT" data-provider="signinData" finished-at="2022-12-30T18:54:55 EST" duration-ms="1368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sahana9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SigninDDT -->
+      </class> <!-- testCases.SigninTest -->
+      <class name="testCases.TreeTest">
+        <test-method signature="OverviewTree()[pri:1, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:05 EST" name="OverviewTree" finished-at="2022-12-30T18:56:07 EST" duration-ms="1883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OverviewTree -->
+        <test-method signature="Terminology()[pri:2, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:07 EST" name="Terminology" finished-at="2022-12-30T18:56:09 EST" duration-ms="1615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Terminology -->
+        <test-method signature="TypesofTree()[pri:3, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:09 EST" name="TypesofTree" finished-at="2022-12-30T18:56:13 EST" duration-ms="4415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TypesofTree -->
+        <test-method signature="TreeTraversals()[pri:4, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:13 EST" name="TreeTraversals" finished-at="2022-12-30T18:56:15 EST" duration-ms="1775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TreeTraversals -->
+        <test-method signature="TraversalsIllustration()[pri:5, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:15 EST" name="TraversalsIllustration" finished-at="2022-12-30T18:56:16 EST" duration-ms="1397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TraversalsIllustration -->
+        <test-method signature="BinaryTree()[pri:6, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:16 EST" name="BinaryTree" finished-at="2022-12-30T18:56:17 EST" duration-ms="1197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BinaryTree -->
+        <test-method signature="TypesBinaryTree()[pri:7, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:18 EST" name="TypesBinaryTree" finished-at="2022-12-30T18:56:20 EST" duration-ms="2330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TypesBinaryTree -->
+        <test-method signature="ImplementationinPython()[pri:8, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:20 EST" name="ImplementationinPython" finished-at="2022-12-30T18:56:23 EST" duration-ms="3560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImplementationinPython -->
+        <test-method signature="BinaryTreeTraversals()[pri:9, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:23 EST" name="BinaryTreeTraversals" finished-at="2022-12-30T18:56:25 EST" duration-ms="1476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BinaryTreeTraversals -->
+        <test-method signature="ImplementationBinaryTrees()[pri:10, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:25 EST" name="ImplementationBinaryTrees" finished-at="2022-12-30T18:56:26 EST" duration-ms="1271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImplementationBinaryTrees -->
+        <test-method signature="ApplicationsBinaryTree()[pri:11, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:26 EST" name="ApplicationsBinaryTree" finished-at="2022-12-30T18:56:27 EST" duration-ms="1209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplicationsBinaryTree -->
+        <test-method signature="BinarySearchTrees()[pri:12, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:27 EST" name="BinarySearchTrees" finished-at="2022-12-30T18:56:30 EST" duration-ms="2774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BinarySearchTrees -->
+        <test-method signature="ImplementationOfBST()[pri:13, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:30 EST" name="ImplementationOfBST" finished-at="2022-12-30T18:56:34 EST" duration-ms="3541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImplementationOfBST -->
+        <test-method signature="PracticeQuestion()[pri:14, instance:testCases.TreeTest@4d14b6c2]" started-at="2022-12-30T18:56:34 EST" name="PracticeQuestion" finished-at="2022-12-30T18:56:34 EST" duration-ms="668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PracticeQuestion -->
+      </class> <!-- testCases.TreeTest -->
+      <class name="testCases.DataStructureTest">
+        <test-method signature="DatastructureTimeComplexity()[pri:1, instance:testCases.DataStructureTest@333d4a8c]" started-at="2022-12-30T18:54:55 EST" name="DatastructureTimeComplexity" finished-at="2022-12-30T18:54:59 EST" duration-ms="3384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DatastructureTimeComplexity -->
+        <test-method signature="DataStructurePrecticeQuestion()[pri:2, instance:testCases.DataStructureTest@333d4a8c]" started-at="2022-12-30T18:54:59 EST" name="DataStructurePrecticeQuestion" finished-at="2022-12-30T18:55:00 EST" duration-ms="1395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataStructurePrecticeQuestion -->
+      </class> <!-- testCases.DataStructureTest -->
+      <class name="testCases.RegistrationTest">
+        <test-method signature="RegistrationDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegistrationTest@6a8658ff]" started-at="2022-12-30T18:54:40 EST" name="RegistrationDDT" data-provider="RegistrationData" finished-at="2022-12-30T18:54:41 EST" duration-ms="1485" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1311]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1311]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ 1311]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationDDT -->
+        <test-method signature="RegistrationDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegistrationTest@6a8658ff]" started-at="2022-12-30T18:54:41 EST" name="RegistrationDDT" data-provider="RegistrationData" finished-at="2022-12-30T18:54:42 EST" duration-ms="532" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Zee1625]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[  1625]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1625]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationDDT -->
+        <test-method signature="RegistrationDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegistrationTest@6a8658ff]" started-at="2022-12-30T18:54:42 EST" name="RegistrationDDT" data-provider="RegistrationData" finished-at="2022-12-30T18:54:43 EST" duration-ms="847" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[zenny4832]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc1234832]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4832]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationDDT -->
+        <test-method signature="RegistrationDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegistrationTest@6a8658ff]" started-at="2022-12-30T18:54:43 EST" name="RegistrationDDT" data-provider="RegistrationData" finished-at="2022-12-30T18:54:45 EST" duration-ms="2285" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rose2858]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[try123452858]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[try1232858]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationDDT -->
+        <test-method signature="RegistrationDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegistrationTest@6a8658ff]" started-at="2022-12-30T18:54:45 EST" name="RegistrationDDT" data-provider="RegistrationData" finished-at="2022-12-30T18:54:48 EST" duration-ms="2700" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mily1764]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ab1764]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ab1764]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationDDT -->
+        <test-method signature="RegistrationDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegistrationTest@6a8658ff]" started-at="2022-12-30T18:54:48 EST" name="RegistrationDDT" data-provider="RegistrationData" finished-at="2022-12-30T18:54:50 EST" duration-ms="2577" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sahana96927]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user123456927]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[user123456927]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationDDT -->
+        <test-method signature="sighOutOnRegistrationPage()[pri:1, instance:testCases.RegistrationTest@6a8658ff]" started-at="2022-12-30T18:54:50 EST" name="sighOutOnRegistrationPage" finished-at="2022-12-30T18:54:51 EST" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sighOutOnRegistrationPage -->
+      </class> <!-- testCases.RegistrationTest -->
+      <class name="testCases.ArrayTest">
+        <test-method signature="Arrayslogin()[pri:1, instance:testCases.ArrayTest@55de24cc]" started-at="2022-12-30T18:55:00 EST" name="Arrayslogin" finished-at="2022-12-30T18:55:04 EST" duration-ms="3356" status="FAIL">
+          <exception class="junit.framework.AssertionFailedError">
+            <full-stacktrace>
+              <![CDATA[junit.framework.AssertionFailedError
+at junit.framework.Assert.fail(Assert.java:47)
+at junit.framework.Assert.assertTrue(Assert.java:20)
+at junit.framework.Assert.assertTrue(Assert.java:27)
+at testCases.ArrayTest.Arrayslogin(ArrayTest.java:48)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- junit.framework.AssertionFailedError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Arrayslogin -->
+        <test-method signature="ArraysPython()[pri:2, instance:testCases.ArrayTest@55de24cc]" started-at="2022-12-30T18:55:04 EST" name="ArraysPython" finished-at="2022-12-30T18:55:06 EST" duration-ms="2818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ArraysPython -->
+        <test-method signature="ArraysList()[pri:3, instance:testCases.ArrayTest@55de24cc]" started-at="2022-12-30T18:55:06 EST" name="ArraysList" finished-at="2022-12-30T18:55:10 EST" duration-ms="3137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ArraysList -->
+        <test-method signature="BasicOperation()[pri:4, instance:testCases.ArrayTest@55de24cc]" started-at="2022-12-30T18:55:10 EST" name="BasicOperation" finished-at="2022-12-30T18:55:12 EST" duration-ms="2263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasicOperation -->
+        <test-method signature="ApplicationOfArrays()[pri:5, instance:testCases.ArrayTest@55de24cc]" started-at="2022-12-30T18:55:12 EST" name="ApplicationOfArrays" finished-at="2022-12-30T18:55:13 EST" duration-ms="1334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplicationOfArrays -->
+        <test-method signature="PracticeQuestion()[pri:6, instance:testCases.ArrayTest@55de24cc]" started-at="2022-12-30T18:55:13 EST" name="PracticeQuestion" finished-at="2022-12-30T18:55:15 EST" duration-ms="1823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PracticeQuestion -->
+        <test-method signature="MaxConsecutive()[pri:7, instance:testCases.ArrayTest@55de24cc]" started-at="2022-12-30T18:55:15 EST" name="MaxConsecutive" finished-at="2022-12-30T18:55:16 EST" duration-ms="1018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MaxConsecutive -->
+        <test-method signature="FindNumber()[pri:8, instance:testCases.ArrayTest@55de24cc]" started-at="2022-12-30T18:55:16 EST" name="FindNumber" finished-at="2022-12-30T18:55:17 EST" duration-ms="980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindNumber -->
+        <test-method signature="ShortedArrays()[pri:9, instance:testCases.ArrayTest@55de24cc]" started-at="2022-12-30T18:55:17 EST" name="ShortedArrays" finished-at="2022-12-30T18:55:21 EST" duration-ms="3539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShortedArrays -->
+      </class> <!-- testCases.ArrayTest -->
+      <class name="testCases.GraphTest">
+        <test-method signature="GraphPage()[pri:1, instance:testCases.GraphTest@7e990ed7]" started-at="2022-12-30T18:56:34 EST" name="GraphPage" finished-at="2022-12-30T18:56:36 EST" duration-ms="1981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GraphPage -->
+        <test-method signature="GraphRepresentations()[pri:2, instance:testCases.GraphTest@7e990ed7]" started-at="2022-12-30T18:56:36 EST" name="GraphRepresentations" finished-at="2022-12-30T18:56:38 EST" duration-ms="1289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GraphRepresentations -->
+        <test-method signature="Graph()[pri:3, instance:testCases.GraphTest@7e990ed7]" started-at="2022-12-30T18:56:38 EST" name="Graph" finished-at="2022-12-30T18:56:39 EST" duration-ms="1192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Graph -->
+      </class> <!-- testCases.GraphTest -->
+      <class name="testCases.StackTest">
+        <test-method signature="StackOperations()[pri:1, instance:testCases.StackTest@30f842ca]" started-at="2022-12-30T18:55:43 EST" name="StackOperations" finished-at="2022-12-30T18:55:47 EST" duration-ms="4151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StackOperations -->
+        <test-method signature="StackApplications()[pri:2, instance:testCases.StackTest@30f842ca]" started-at="2022-12-30T18:55:47 EST" name="StackApplications" finished-at="2022-12-30T18:55:51 EST" duration-ms="3672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StackApplications -->
+        <test-method signature="StackImplementation()[pri:2, instance:testCases.StackTest@30f842ca]" started-at="2022-12-30T18:55:51 EST" name="StackImplementation" finished-at="2022-12-30T18:55:54 EST" duration-ms="2911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StackImplementation -->
+        <test-method signature="StackPracticeQuestion()[pri:3, instance:testCases.StackTest@30f842ca]" started-at="2022-12-30T18:55:54 EST" name="StackPracticeQuestion" finished-at="2022-12-30T18:55:55 EST" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StackPracticeQuestion -->
+      </class> <!-- testCases.StackTest -->
+      <class name="testCases.LinkedListTest">
+        <test-method signature="LinledSignIn()[pri:0, instance:testCases.LinkedListTest@dc7df28]" started-at="2022-12-30T18:55:21 EST" name="LinledSignIn" finished-at="2022-12-30T18:55:23 EST" duration-ms="2725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinledSignIn -->
+        <test-method signature="introductionLinkListed()[pri:1, instance:testCases.LinkedListTest@dc7df28]" started-at="2022-12-30T18:55:23 EST" name="introductionLinkListed" finished-at="2022-12-30T18:55:25 EST" duration-ms="1688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- introductionLinkListed -->
+        <test-method signature="CreatedLinkedListedPage()[pri:2, instance:testCases.LinkedListTest@dc7df28]" started-at="2022-12-30T18:55:25 EST" name="CreatedLinkedListedPage" finished-at="2022-12-30T18:55:27 EST" duration-ms="1827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatedLinkedListedPage -->
+        <test-method signature="TypeOfLinkedListedPage()[pri:3, instance:testCases.LinkedListTest@dc7df28]" started-at="2022-12-30T18:55:27 EST" name="TypeOfLinkedListedPage" finished-at="2022-12-30T18:55:32 EST" duration-ms="4878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TypeOfLinkedListedPage -->
+        <test-method signature="ImplementLinkedListedPython()[pri:4, instance:testCases.LinkedListTest@dc7df28]" started-at="2022-12-30T18:55:32 EST" name="ImplementLinkedListedPython" finished-at="2022-12-30T18:55:34 EST" duration-ms="2228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImplementLinkedListedPython -->
+        <test-method signature="TraversalLinkedListedPython()[pri:5, instance:testCases.LinkedListTest@dc7df28]" started-at="2022-12-30T18:55:34 EST" name="TraversalLinkedListedPython" finished-at="2022-12-30T18:55:36 EST" duration-ms="1709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TraversalLinkedListedPython -->
+        <test-method signature="InsertaionLinkedListedPython()[pri:6, instance:testCases.LinkedListTest@dc7df28]" started-at="2022-12-30T18:55:36 EST" name="InsertaionLinkedListedPython" finished-at="2022-12-30T18:55:39 EST" duration-ms="2791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InsertaionLinkedListedPython -->
+        <test-method signature="DeletionLinkedListedPython()[pri:7, instance:testCases.LinkedListTest@dc7df28]" started-at="2022-12-30T18:55:39 EST" name="DeletionLinkedListedPython" finished-at="2022-12-30T18:55:42 EST" duration-ms="3776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeletionLinkedListedPython -->
+        <test-method signature="PracticeQuastionLinkedListedPython()[pri:8, instance:testCases.LinkedListTest@dc7df28]" started-at="2022-12-30T18:55:42 EST" name="PracticeQuastionLinkedListedPython" finished-at="2022-12-30T18:55:43 EST" duration-ms="730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PracticeQuastionLinkedListedPython -->
+      </class> <!-- testCases.LinkedListTest -->
+      <class name="testCases.HomePageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.HomePageTest@5e7cd6cc]" started-at="2022-12-30T18:54:22 EST" name="setup" finished-at="2022-12-30T18:54:31 EST" duration-ms="8971" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homepage()[pri:0, instance:testCases.HomePageTest@5e7cd6cc]" started-at="2022-12-30T18:54:31 EST" name="homepage" finished-at="2022-12-30T18:54:35 EST" duration-ms="3248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.HomePageTest@5e7cd6cc]" started-at="2022-12-30T18:56:39 EST" name="tearDown" finished-at="2022-12-30T18:56:41 EST" duration-ms="1804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
